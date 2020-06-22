@@ -11,6 +11,7 @@ Code and data for ECML-PKDD paper "[Social Influence Attentive Neural Network fo
 
 ## Description
 
+```
 ├── baselines  # baseline code
 │   ├── Eval4Baselines.py
 
@@ -24,8 +25,6 @@ Code and data for ECML-PKDD paper "[Social Influence Attentive Neural Network fo
 │   ├── InfluenceProp.py  # social influence coupler 
 │   ├── Logging.py  #log
 
-│   ├── log  # saved log file
-│   │   ├── wxt.0.0.6023.0.35225.model
 │   └── trainHeteInf.py  # the main function for SIAN
 └── data  # dataset
     ├── Data4Baselines.ipynb  #
@@ -58,6 +57,11 @@ Code and data for ECML-PKDD paper "[Social Influence Attentive Neural Network fo
     │   ├── yelp.train.rating.712
     │   └── yelp.val.rating.712
     ├── yelp.ipynb
+
+
+├── log  # saved log file
+│   ├── wxt.0.0.6023.0.35225.model
+```
 
 
 
