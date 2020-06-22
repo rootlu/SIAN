@@ -65,6 +65,18 @@ Code and data for ECML-PKDD paper "[Social Influence Attentive Neural Network fo
 
 
 
+## Dataset 
+
+FWD dataset (i.e., wxt data) can be download from [Google Drive](https://drive.google.com/drive/folders/10R8_ESb4fYW0WLPIBVn3g8si3mNIeqY1?usp=sharing) and [BaiduYun](https://pan.baidu.com/s/1zNagRTvdOwsONAFBtM8IFg) （提取码：i6qy）
+
+
+
+## Reproducing results in the paper
+
+Load the saved models in `log/` dir.
+
+
+
 ## Training
 
 ```
